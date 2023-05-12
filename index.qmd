@@ -1,5 +1,5 @@
 ---
-title: "APsA-website"
+title: "African Psycholinguistics Association"
 listing:
   contents: posts
   sort: "date desc"
